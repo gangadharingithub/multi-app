@@ -1,4 +1,4 @@
-package com.xyz;
+package com.xyz.app;
 
 import com.xyz.util.*;
 

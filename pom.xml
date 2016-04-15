@@ -19,6 +19,10 @@
 				    <!-- <version>3.1.8-SNAPSHOT</version> -->
 				    <configuration>
 				        <orgToken>1029d632-08ab-4b21-8f25-a874b8883ad8</orgToken>
+				      	<!-- <moduleTokens>
+				            <app>app</app>
+				            <util>util</util>
+			        	</moduleTokens> -->
 				    </configuration>
 				</plugin>
 		         <plugin>    
